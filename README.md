@@ -1,4 +1,4 @@
-# IIT_DEVPOST
+# IIT_DEVPOST_HACKATHON
 
 # RANSOMWARE DETECTION FOR MALICIOUS FILES:
 The machine learning model in the ransomware detection project likely involves several key components and steps, which are common in such applications. Here’s a general overview based on typical practices in machine learning for cybersecurity:
